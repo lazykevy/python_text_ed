@@ -1,1 +1,1 @@
-# python_text_ed
+This is a simple text box in python. You can save whatever you want when you use it and change the font.
